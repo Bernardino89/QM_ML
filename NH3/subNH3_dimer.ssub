@@ -1,0 +1,16 @@
+#!/bin/bash
+#SBATCH --job-name="NH3di50"
+#SBATCH --nodes 1
+#SBATCH --ntasks-per-core=1
+#SBATCH --ntasks-per-node=32
+
+module purge
+module load gaussian/g16/C01
+#. /ccc/products/gaussian-09-D.01/default/g09/bsd/g09.profile
+set -x # print commands in the logs
+
+python -u NH3_new_HW.py
+date
+#FIN
+
+
