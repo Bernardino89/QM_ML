@@ -1,5 +1,5 @@
 # QM_ML
-Supervised Learning scheme for obtaining a Basis Set
+Supervised Learning for obtaining a Basis Set
 
 ****Development and supervised learning of a chemical model (Python/ Gaussian) to correct basis set effects on quantum mechanical predictions, speed up computations, and improve thermochemical accuracy.**** 
 
