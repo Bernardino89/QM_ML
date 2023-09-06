@@ -12,7 +12,7 @@ Li, Hanwei, et al. "Beyond chemical accuracy for alkane thermochemistry: the DH 
 
 The NH3 folder pertains to the system under examination. Enclosed within this directory are all the associated files:
 
-  1)**optimizer.py:*
+***optimizer.py:***
 
   This program has been designed to interface with the Gaussian software, enabling the development of DH-SVPD (Double-ζ) basis sets specifically. DH-SVPD leverages an error compensation     strategy to address the trade-off between basis set incompleteness errors and overlap errors (BSIE and BSSE, respectively). DH-SVPD is derived based on the zeroth-order energy exchange optimization criterion proposed by Varandas, referred to here as the constraint:
 
