@@ -23,9 +23,7 @@ The NH3 folder pertains to the system under examination. Enclosed within this di
     {αi}  |_  (ED - EM)  +  (EJ + EX)  _|
 
 
-Where the quantity E - E0 refers to the interaction energy between monomers in a molecular aggregate, and J and K represent the corresponding Coulomb and exchange energies of the dimer itself. The optimization of the exponents of the more diffuse Gaussian functions in the def2-SVPD atomic basis set, denoted here as {αi}, enables the expression of the molecular aggregate's interaction energy within its perturbative one-electron exchange development.
-
-Additionally, the program facilitates the **automated extraction of features**: the electronic energy of the dimer and monomers, MP2 energies of dimers and monomers, and exchange and correlation energies.
+Where the quantity E - E0 refers to the interaction energy between monomers in a molecular aggregate, and J and K represent the corresponding Coulomb and exchange energies of the dimer itself. The optimization of the exponents of the more diffuse Gaussian functions in the def2-SVPD atomic basis set, denoted here as {αi}, enables the expression of the molecular aggregate's interaction energy within its perturbative one-electron exchange development. Additionally, the program facilitates the **automated extraction of features**: the electronic energy of the dimer and monomers, MP2 energies of dimers and monomers, and exchange and correlation energies.
 
 ***starter.com***
 Input file that encompasses the geometry, theory level, basis set for optimization, and necessary Gaussian keywords.
