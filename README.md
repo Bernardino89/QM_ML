@@ -7,9 +7,9 @@ for reference see the publications:
 
 For reference, please consult the following publications:
 
-#Tirri, Bernardino, et al. "Computation of covalent and noncovalent structural parameters at low computational cost: Efficiency of the DH‐SVPD method." International Journal of Quantum Chemistry 120.13 (2020): e26233.
+*Tirri, Bernardino, et al. "Computation of covalent and noncovalent structural parameters at low computational cost: Efficiency of the DH‐SVPD method." International Journal of Quantum Chemistry 120.13 (2020): e26233.*
 
-Li, Hanwei, et al. "Beyond chemical accuracy for alkane thermochemistry: the DH thermo approach." The Journal of Organic Chemistry 86.8 (2021): 5538-5545.#
+*Li, Hanwei, et al. "Beyond chemical accuracy for alkane thermochemistry: the DH thermo approach." The Journal of Organic Chemistry 86.8 (2021): 5538-5545.*
 
 The NH3 folder pertains to the system under examination. Enclosed within this directory are all the associated files:
 
