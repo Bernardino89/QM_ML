@@ -1,7 +1,9 @@
 # QM_ML
 Supervised Learning scheme for obtaining a Basis Set
 
-****Development and supervised learning of a chemical model (Python/ Gaussian) to correct basis set effects on quantum mechanical predictions, speed up computations, and improve thermochemical accuracy.**** for reference see the publications:
+****Development and supervised learning of a chemical model (Python/ Gaussian) to correct basis set effects on quantum mechanical predictions, speed up computations, and improve thermochemical accuracy.**** 
+
+for reference see the publications:
 
 For reference, please consult the following publications:
 Tirri, Bernardino, et al. "Computation of covalent and noncovalent structural parameters at low computational cost: Efficiency of the DH‐SVPD method." International Journal of Quantum Chemistry 120.13 (2020): e26233.
