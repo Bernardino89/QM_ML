@@ -3,15 +3,12 @@ Supervised Learning for obtaining a Basis Set
 
 ****Development and supervised learning of a chemical model (Python/ Gaussian) to correct basis set effects on quantum mechanical predictions, speed up computations, and improve thermochemical accuracy.**** 
 
-For reference, please consult the following publications:
-
-Tirri, Bernardino, et al. "Computation of covalent and noncovalent structural parameters at low computational cost: Efficiency of the DH‐SVPD method." International Journal of Quantum Chemistry 120.13 (2020): e26233.
-
-Li, Hanwei, et al. "Beyond chemical accuracy for alkane thermochemistry: the DH thermo approach." The Journal of Organic Chemistry 86.8 (2021): 5538-5545.
 
 The NH3 folder pertains to the system under examination. Enclosed within this directory are all the associated files:
 
-***optimizer.py:***
+***optimizer.py:*** 
+
+***The optimizer.py file has not been utilised for the published data; it merely represents a test.***
 
   This program has been designed to interface with the Gaussian software, enabling the development of DH-SVPD (Double-ζ) basis sets specifically. DH-SVPD leverages an error compensation     strategy to address the trade-off between basis set incompleteness errors and overlap errors (BSIE and BSSE, respectively). DH-SVPD is derived based on the zeroth-order energy exchange optimization criterion proposed by Varandas, referred to here as the constraint:
 	
@@ -30,3 +27,9 @@ Where the quantity E - E0 refers to the interaction energy between monomers in a
 ****slurm-123882.out:***
 
   Output file that contains all information.
+
+For reference about the method, please consult the following publications:
+
+Tirri, Bernardino, et al. "Computation of covalent and noncovalent structural parameters at low computational cost: Efficiency of the DH‐SVPD method." International Journal of Quantum Chemistry 120.13 (2020): e26233.
+
+Li, Hanwei, et al. "Beyond chemical accuracy for alkane thermochemistry: the DH thermo approach." The Journal of Organic Chemistry 86.8 (2021): 5538-5545.
